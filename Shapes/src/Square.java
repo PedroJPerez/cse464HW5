@@ -1,5 +1,5 @@
 //Pedro J. Perez
-//
+//Version1
 public class Square extends Shape
 {
 	private int length;
