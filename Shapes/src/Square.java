@@ -4,7 +4,7 @@ public class Square extends Shape
 {
 	private int length;
 
-	public Square(int l)
+	public Square(int l) // test test
        {
          super();
          length=l;
